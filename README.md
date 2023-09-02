@@ -1,0 +1,1 @@
+Repositorio destinado a revisão de python ocorrida a disciplina de projeto integrador 3 do curso de Big Data da Fatec Ipiranga.
